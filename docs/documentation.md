@@ -73,11 +73,18 @@ A significant effort was dedicated to data cleaning and preprocessing. This incl
 The data was processed and analyzed using Python in Google Colab, where various analytical techniques were applied to extract meaningful insights. After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization and dashboard creation.
 
 This structured approach to data acquisition and preparation ensured that the dataset was reliable, relevant, and suitable for Business Intelligence analysis, enabling the extraction of actionable insights that support hospital decision-making.
+Dataset:
 <img width="1606" height="710" alt="Screenshot 2026-05-05 201242" src="https://github.com/user-attachments/assets/e06c2457-9dce-456f-9539-a1b304ae4f7f" />
 <img width="723" height="710" alt="Screenshot 2026-05-05 202412" src="https://github.com/user-attachments/assets/10f44db1-7026-4bd4-be56-f977a965afd8" />
 <img width="762" height="725" alt="Screenshot 2026-05-05 202342" src="https://github.com/user-attachments/assets/11198788-3d36-4ac6-9065-1bebab7f378c" />
 <img width="610" height="712" alt="Screenshot 2026-05-05 202320" src="https://github.com/user-attachments/assets/7fb3c718-46c5-46a7-ae22-c7fe148d942f" />
 <img width="1694" height="709" alt="Screenshot 2026-05-05 202221" src="https://github.com/user-attachments/assets/425ddb45-6ef8-48ff-b01f-861a5601ccff" />
+
+Data cleaning
+<img width="403" height="689" alt="Screenshot 2026-05-05 202829" src="https://github.com/user-attachments/assets/5dc212d6-0898-4a84-bb26-803ae2414219" />
+datetime:
+<img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/a75dc571-ad51-4a40-8109-6675dc1df6ab" />
+The following visualization was created using Tableau to analyze patient distribution across hospital departments and identify workload differences between departments.<img width="1233" height="843" alt="Screenshot 2026-05-05 204559" src="https://github.com/user-attachments/assets/5d0bdd70-af5a-4481-bcf8-3474e3dffd7e" />
 
 ## **Data Description and Understanding**
 
