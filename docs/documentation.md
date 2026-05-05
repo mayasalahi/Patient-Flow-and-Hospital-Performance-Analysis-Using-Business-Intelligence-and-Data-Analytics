@@ -162,14 +162,55 @@ The analysis shows that the highest number of patient admissions occurs around 8
 This pattern suggests that most patients tend to seek medical care during evening hours after daily activities, while early morning hours experience significantly lower demand.
 Based on these findings, it is recommended to allocate more medical staff and resources during peak evening hours to improve service efficiency and reduce patient waiting time, while maintaining minimal staffing during early morning hours.
 ## **Dashboard Design & Business Insights**
+Dashboard Design & Business Intelligence:
+The dashboard is designed to deliver a comprehensive and interactive view of hospital operations by integrating multiple key performance indicators and analytical visualizations. It presents essential KPIs including total visits (81,588), total patients (30,081), average visits per patient (2.712), and department count, providing a high-level summary of hospital activity.
+
+The design follows a structured layout, where summary metrics are placed at the top for quick insights, followed by detailed visual analyses. Interactive filters such as year of admission, department, gender, and admission type enable dynamic exploration and allow users to drill down into specific segments of the data.
+
+The dashboard includes several analytical components: patient flow visualization to track movement across departments, distribution of patient count by department to evaluate workload, length of stay analysis to assess patient duration, patient frequency to identify repeated visits, daily trend analysis to monitor weekly patterns, time trend analysis to observe long-term changes, and peak admission hours analysis to detect high-demand periods during the day.
+
+From a business intelligence perspective, this dashboard supports data-driven decision-making by identifying peak periods, understanding patient behavior, evaluating departmental performance, and optimizing resource allocation. It helps hospital management improve operational efficiency, enhance service planning, and respond effectively to changing healthcare demands.
+<img width="1752" height="1036" alt="Screenshot 2026-05-05 223828" src="https://github.com/user-attachments/assets/48ce5493-8106-42d6-8bc7-9583fefbae17" />
 
 ## **Advanced Analytics and AI Modeling**
+After exploring different analytical approaches, the most suitable methods for this project were descriptive data analysis combined with basic time series forecasting using the ARIMA model.
 
+This approach was selected because it is well-suited for structured healthcare data such as patient records and hospital operations. It allows clear interpretation of results, which is essential for decision-making in healthcare environments. It also effectively supports the analysis of patient distribution, flow between departments, and identification of peak demand periods.
+
+From an analytical perspective, descriptive analysis was used to explore patterns in patient visits, department workload, and temporal trends. In addition, the ARIMA model was applied to provide a basic forecast of future patient demand based on historical data.
+
+A decision was made to use simple analytical and forecasting techniques instead of complex machine learning models. This is because the main objective of the project is to extract meaningful business insights rather than build advanced predictive systems. Furthermore, the dataset size and structure are more suitable for interpretable and lightweight models.
+
+Although the forecasting component is kept simple, it provides useful insights into potential future trends and supports strategic planning in hospital operations.
+
+Overall, this combination of descriptive analysis and simple forecasting ensures that the results remain clear, practical, and aligned with the goals of Business Intelligence, which focuses on supporting decision-making rather than model complexity.
 ## **Tools Research and Selection Effort**
+During the development of this project, several tools and technologies were evaluated to determine the most suitable environment for data analysis, processing, and visualization.
 
+Python was selected as the primary programming language due to its strong capabilities in data manipulation, analysis, and automation. Libraries such as Pandas and NumPy were used for data cleaning and preprocessing, while additional analytical functions supported feature engineering and time-based analysis.
+
+Google Colab was used as the working environment because it provides an interactive and cloud-based platform that allows efficient coding, easy data handling, and collaborative work without the need for local setup.
+
+For data visualization and dashboard development, Tableau was chosen due to its powerful interactive capabilities. It enables the transformation of complex datasets into clear and understandable visual insights, supporting effective decision-making.
+
+These tools were selected based on their reliability, ease of use, and strong support for data-driven projects. The combination of Python for analysis and Tableau for visualization provided a complete end-to-end Business Intelligence solution for this project.
 ## **Project Deployment Effort – Use Case**
+The deployment of this project focuses on demonstrating how the developed Business Intelligence system can be used in a real hospital environment. The system is designed to support hospital management and decision-makers by providing interactive insights into patient behavior and operational performance.
 
-## **Results**
+The Tableau dashboard can be deployed as a web-based or shared platform that allows authorized users such as hospital administrators and healthcare managers to access real-time visual analytics. Users can interact with the dashboard by filtering data based on departments, time periods, and patient characteristics.
+
+In a real-world use case, hospital management can utilize this system to monitor patient distribution, identify peak admission periods, and analyze patient flow between departments. This enables better resource allocation, improved staff scheduling, and reduced waiting times for patients.
+
+Additionally, the system can support strategic planning by highlighting departments with high workload or longer patient stays, allowing decision-makers to take proactive actions to improve service efficiency.
+
+Overall, the project demonstrates how raw hospital data can be transformed into a deployable decision-support system that enhances operational efficiency and supports data-driven healthcare management.
+## **Results** 
+
+Overall, this phase transformed raw hospital data into structured, clear, and actionable insights. By combining data preprocessing, analytical techniques, and time-based analysis, the project provides a comprehensive understanding of patient behavior and hospital operations.
+
+The analysis goes beyond basic data exploration by identifying patterns in patient distribution, department workload, peak times, and length of stay. These insights highlight operational challenges and areas that require attention.
+
+The processed dataset and derived metrics serve as a strong foundation for Business Intelligence visualizations, enabling the creation of interactive dashboards that support data-driven decision-
 
 ## **References**
 
