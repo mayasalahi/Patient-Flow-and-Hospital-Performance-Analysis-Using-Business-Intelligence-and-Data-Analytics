@@ -1,4 +1,4 @@
-<img width="821" height="131" alt="image" src="https://github.com/user-attachments/assets/93cb346d-6e5c-4262-b489-8b817cfab8d4" />## **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
+ **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
 Authors
