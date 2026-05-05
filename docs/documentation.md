@@ -1,4 +1,4 @@
-Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics
+## **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 
 Project Title: Al-Haramain Hospital Business Intelligence Analysis
 Student Name: Malak Hababih, maya salahi
