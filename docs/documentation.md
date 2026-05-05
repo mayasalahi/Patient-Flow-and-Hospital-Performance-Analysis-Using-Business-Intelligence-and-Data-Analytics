@@ -3,10 +3,10 @@
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
 Authors
 
-Malak Hababih
+Malak Hababih,Maya salahi
 
 Supervised by:
-Dr. (اسم الدكتور)
+Dr.husam barham
 
 University:
 University of Petra
@@ -17,8 +17,7 @@ Graduation Project
 Semester:
 Second Semester, 2025/2026
 
-Date:
-(
+Date:1/6/2026
 ## **Table of Content**
 
 ## **Abstract**
