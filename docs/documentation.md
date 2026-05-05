@@ -73,6 +73,8 @@ A significant effort was dedicated to data cleaning and preprocessing. This incl
 The data was processed and analyzed using Python in Google Colab, where various analytical techniques were applied to extract meaningful insights. After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization and dashboard creation.
 
 This structured approach to data acquisition and preparation ensured that the dataset was reliable, relevant, and suitable for Business Intelligence analysis, enabling the extraction of actionable insights that support hospital decision-making.
+![Dataset](images/dataset.png)
+
 ## **Data Description and Understanding**
 
 ## **Data Primary Cleaning and Transformation**
