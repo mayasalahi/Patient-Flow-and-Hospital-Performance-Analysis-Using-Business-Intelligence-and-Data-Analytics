@@ -1,9 +1,24 @@
 ## **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 
-##**Project Title: Al-Haramain Hospital Business Intelligence Analysis**
-Student Name: Malak Hababih, maya salahi
-University: (university of Petra)
-Supervisor: (DR husam barham)
+🏥 Al-Haramain Hospital BI Dashboard & Analytics
+Authors
+
+Malak Hababih
+
+Supervised by:
+Dr. (اسم الدكتور)
+
+University:
+University of Petra
+
+Course:
+Graduation Project
+
+Semester:
+Second Semester, 2025/2026
+
+Date:
+(
 ## **Table of Content**
 
 ## **Abstract**
