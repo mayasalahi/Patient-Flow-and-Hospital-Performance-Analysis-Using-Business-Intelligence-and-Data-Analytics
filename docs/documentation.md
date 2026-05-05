@@ -1,4 +1,4 @@
-## **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
+<img width="1694" height="709" alt="image" src="https://github.com/user-attachments/assets/2a610763-ee48-42d3-83fb-4da82ca7136b" />## **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
 Authors
@@ -74,6 +74,10 @@ The data was processed and analyzed using Python in Google Colab, where various 
 
 This structured approach to data acquisition and preparation ensured that the dataset was reliable, relevant, and suitable for Business Intelligence analysis, enabling the extraction of actionable insights that support hospital decision-making.
 <img width="1606" height="710" alt="Screenshot 2026-05-05 201242" src="https://github.com/user-attachments/assets/e06c2457-9dce-456f-9539-a1b304ae4f7f" />
+<img width="723" height="710" alt="Screenshot 2026-05-05 202412" src="https://github.com/user-attachments/assets/10f44db1-7026-4bd4-be56-f977a965afd8" />
+<img width="762" height="725" alt="Screenshot 2026-05-05 202342" src="https://github.com/user-attachments/assets/11198788-3d36-4ac6-9065-1bebab7f378c" />
+<img width="610" height="712" alt="Screenshot 2026-05-05 202320" src="https://github.com/user-attachments/assets/7fb3c718-46c5-46a7-ae22-c7fe148d942f" />
+<img width="1694" height="709" alt="Screenshot 2026-05-05 202221" src="https://github.com/user-attachments/assets/425ddb45-6ef8-48ff-b01f-861a5601ccff" />
 
 ## **Data Description and Understanding**
 
