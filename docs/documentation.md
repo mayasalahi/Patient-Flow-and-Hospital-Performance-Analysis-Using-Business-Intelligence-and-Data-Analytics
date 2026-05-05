@@ -19,7 +19,18 @@ Second Semester, 2025/2026
 
 Date:1/6/2026
 ## **Table of Content**
-
+1. Abstract  
+2. Acknowledgment  
+3. Project Description and Objectives  
+4. Data Research and Acquiring Effort  
+5. Data Description and Understanding  
+6. Data Cleaning and Transformation  
+7. Data Visualization and Insights  
+8. Dashboard Design & Business Insights  
+9. Tools and Technologies  
+10. Project Deployment  
+11. Results  
+12. References
 ## **Abstract**
 
 ## **Acknowledgment**
