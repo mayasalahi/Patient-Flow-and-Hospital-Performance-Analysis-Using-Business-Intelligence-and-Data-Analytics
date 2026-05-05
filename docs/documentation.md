@@ -60,6 +60,19 @@ Improve resource allocation and operational efficiency
 Support data-driven decision-making through interactive dashboards
 ## **Data Research and Acquiring Effort**
 
+For this project, the focus was on acquiring real-world hospital data that reflects actual patient activities and operational processes within Al-Haramain Hospital. Since the main objective of the project is to analyze patient behavior and hospital performance, the data needed to represent real interactions such as patient visits, department transitions, and duration of stay.
+
+During the data research phase, multiple potential data sources were considered, including publicly available healthcare datasets. However, many of these datasets were either incomplete, outdated, lacked important attributes, or were not aligned with the structure required for this analysis. In addition, relying on multiple datasets would increase data integration complexity and introduce inconsistencies.
+
+To ensure accuracy and relevance, the project utilized a structured dataset representing hospital operations, which includes patient records such as department visits, timestamps, and movement between departments. This approach allowed better control over the data and ensured alignment with the project objectives.
+
+The dataset includes key attributes such as patient ID, department name, visit date, admission and discharge times, and other relevant operational fields. These attributes were carefully selected to support analysis of patient distribution, patient flow, length of stay, and temporal patterns.
+
+A significant effort was dedicated to data cleaning and preprocessing. This included handling missing values, correcting inconsistencies, standardizing date and time formats, and ensuring overall data quality. Proper preprocessing was essential to ensure accurate analysis and reliable results.
+
+The data was processed and analyzed using Python in Google Colab, where various analytical techniques were applied to extract meaningful insights. After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization and dashboard creation.
+
+This structured approach to data acquisition and preparation ensured that the dataset was reliable, relevant, and suitable for Business Intelligence analysis, enabling the extraction of actionable insights that support hospital decision-making.
 ## **Data Description and Understanding**
 
 ## **Data Primary Cleaning and Transformation**
