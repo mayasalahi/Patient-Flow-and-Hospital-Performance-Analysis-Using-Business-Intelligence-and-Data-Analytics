@@ -117,10 +117,15 @@ A significant part of the preprocessing involved handling datetime fields. Admis
 <img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/b1535f5d-690e-4ec2-81b8-67a3d17adc0b" />
 
 Feature engineering was also applied to enhance the dataset. New attributes such as year, month, day, and time components were extracted from the original datetime fields to support temporal analysis and trend identification.
+<img width="612" height="363" alt="Screenshot 2026-05-05 212406" src="https://github.com/user-attachments/assets/85bc095a-acb0-4465-b008-fccaa4a00602" />
 
 Finally, the cleaned dataset was structured and exported for further analysis and visualization in Tableau. This transformation process ensured that the data was fully prepared, consistent, and suitable for generating reliable insights in the next stages of the project.
 ## **Data Visualization and Insights**
-
+The following visualization illustrates the patient flow between different hospital departments. It helps in understanding how patients move within the hospital system and identifies common transition paths and operational bottlenecks.
+<img width="1452" height="778" alt="Screenshot 2026-05-05 212922" src="https://github.com/user-attachments/assets/150a1bcc-ccf4-48d1-aa38-c0ca6aa32cf4" />
+The analysis of patient flow shows that most patients start their journey in the Emergency Department before moving to the Laboratory or Radiology departments for further diagnosis.
+It is also observed that there are frequent transitions between Laboratory and Pharmacy, indicating a strong dependency between diagnostic and treatment stages.
+These patterns highlight key operational workflows within the hospital and help identify potential bottlenecks that may affect patient waiting times and resource utilization.
 ## **Dashboard Design & Business Insights**
 
 ## **Advanced Analytics and AI Modeling**
