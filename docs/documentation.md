@@ -128,7 +128,39 @@ It is also observed that there are frequent transitions between Laboratory and P
 These patterns highlight key operational workflows within the hospital and help identify potential bottlenecks that may affect patient waiting times and resource utilization.
 
 The following visualization shows the **distribution of patient visits across different hospital departments**. This chart helps in understanding the workload and demand levels for each department within Al-Haramain Hospital.
+<img width="1233" height="843" alt="Screenshot 2026-05-05 204559" src="https://github.com/user-attachments/assets/36fbedaa-3b3f-44b6-881b-5741c2254f4f" />
+The results indicate that the Emergency Department has the highest number of patient visits compared to other departments, showing that it is the most frequently used service point in the hospital
+The Laboratory and Pharmacy departments also show a relatively high number of visits, which reflects their important role in patient diagnosis and treatment processes.
+Some departments like Radiology have fewer patients because they are used less often or only in special cases.
+These findings help in understanding department workload distribution and support better resource allocation and staffing decisions.
 
+The following visualization presents the **daily trend of patient visits over time**. It helps in understanding how patient demand changes on a day-to-day basis within Al-Haramain Hospital.
+<img width="1447" height="753" alt="Screenshot 2026-05-05 214639" src="https://github.com/user-attachments/assets/8e595377-8c73-4c5a-b2b6-a8ae211abc76" />
+The daily trend shows that patient visits are lower on Fridays compared to other days, indicating it is the least busy day in the hospital.
+In contrast, Mondays show the highest number of patient visits, reflecting a peak in hospital demand at the beginning of the week.
+This pattern suggests that patient flow is influenced by weekly routines, which should be considered when planning 
+
+The following visualization presents the **time trend of patient visits across different months and years**. It helps in identifying long-term patterns in hospital demand over time.
+<img width="1449" height="765" alt="Screenshot 2026-05-05 220419" src="https://github.com/user-attachments/assets/c1222f10-8992-45c7-92be-a43eaca75d5a" />
+The analysis shows that patient visits increased significantly over time, reaching a peak around 2023–2024, followed by a noticeable decline afterward.
+
+Monthly patterns also show fluctuations in patient volumes, where some months record higher values compared to others.
+These variations reflect changes in hospital activity over time; however, the exact causes cannot be determined from the dataset alone.
+
+The following visualization shows the **frequency of patient visits**in the dataset.
+<img width="1452" height="761" alt="Screenshot 2026-05-05 221434" src="https://github.com/user-attachments/assets/300447f8-e70b-4043-8b8a-37ae70d7166e" />
+Most patients have low visit frequency, while a small number of patients account for repeated visits across the hospital system.
+This pattern may be explained by the fact that many cases treated in the hospital are one-time or short-term treatments, while only a smaller group of patients require follow-up visits or continuous care for ongoing health conditions.
+
+The following visualization shows the distribution of **patient length of stay across hospital departments**.
+<img width="1435" height="759" alt="Screenshot 2026-05-05 221915" src="https://github.com/user-attachments/assets/0bcf79ad-9a67-4cfb-adf8-6f766ede94a7" />
+The results show that the Emergency and Treatment departments have the longest patient stays, while the Pharmacy department shows no length of stay since it only involves dispensing medication without patient admission.
+
+The following visualization shows the **peak admission hours analysis**, illustrating the distribution of patient admissions across different hours of the day.
+<img width="1444" height="760" alt="Screenshot 2026-05-05 222627" src="https://github.com/user-attachments/assets/48b3f1af-55d4-4137-a93c-3413ff9c039d" />
+The analysis shows that the highest number of patient admissions occurs around 8–9 PM, indicating peak hospital activity during the evening hours. In contrast, the lowest admission rate is observed around 5 AM, when hospital demand is at its minimum.
+This pattern suggests that most patients tend to seek medical care during evening hours after daily activities, while early morning hours experience significantly lower demand.
+Based on these findings, it is recommended to allocate more medical staff and resources during peak evening hours to improve service efficiency and reduce patient waiting time, while maintaining minimal staffing during early morning hours.
 ## **Dashboard Design & Business Insights**
 
 ## **Advanced Analytics and AI Modeling**
