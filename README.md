@@ -2,42 +2,7 @@
 
 **University of Petra, Graduation Projects, Business Intelligence, 20252**
 
----
 
-## How to Use This Template
-
-This repository serves as a **template for Business Intelligence graduation projects**. Students should **fork this repository** and use it as the foundation for their project work. All project-related files and documentation should be organized within this single repository.
-
-### For Students: Quick Start
-1. **Fork this repository** (Click on **Use this template** then **Create new repository** button in the top right corner) to fork your own copy.
-
-![use-this-template](images/use-template.png)
-
-2. **Clone your fork** to your local machine
-3. **Follow the sections below** to structure your project documentation in markdown format
-4. **Push your work** regularly to track progress
-
----
-
-## Project Structure
-
-```
-your-project-name/
-├── README.md                 # Project overview (UPDATE THIS)
-├── docs/                     # All project documentation
-│   └── 01_project_description.md
-├── data/
-│   ├── raw/                  # Original data files
-│   └── processed/            # Cleaned, transformed data
-├── notebooks/                # Jupyter notebooks for analysis
-├── src/                       # Source code (scripts, apps)
-├── dashboards/               # BI tool exports (Tableau, Power BI, etc.)
-├── models/                    # Trained ML/AI models
-├── requirements.txt          # Python dependencies
-└── .gitignore                # Git ignore file
-```
-
----
 
 ## [Documentation Template Sections](docs/documentation.md)
 
