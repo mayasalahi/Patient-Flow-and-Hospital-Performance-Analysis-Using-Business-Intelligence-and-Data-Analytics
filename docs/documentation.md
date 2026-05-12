@@ -91,7 +91,6 @@ During the cleaning process, missing values were identified and handled appropri
 
 <img width="337" height="45" alt="Screenshot 2026-05-05 211542" src="https://github.com/user-attachments/assets/4e451373-643c-4164-a49f-be041bb01a38" />
 
-<img width="821" height="131" alt="Screenshot 2026-05-05 211852" src="https://github.com/user-attachments/assets/b5a64c9a-1181-48e9-9781-39b7db4360f4" />
 
 A significant part of the preprocessing involved handling datetime fields. Admission and discharge timestamps were converted into a consistent datetime format, enabling accurate calculation of time-based metrics such as length of stay and visit duration.
 
