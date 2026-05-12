@@ -22,7 +22,7 @@ Supervised by: [Husam Barham]
 Course: 307498 – Graduation Project
 Semester: First Semester, 2025/2026
 
-Date: [Submission Date]
+Date: [1/6/2026]
 ```
 
 ## [Table of Content](docs.domcumentation.md#table-of-content) 
