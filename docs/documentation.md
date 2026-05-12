@@ -1,3 +1,4 @@
+<img width="700" height="525" alt="WhatsApp Image 2026-05-12 at 7 01 20 PM (1)" src="https://github.com/user-attachments/assets/54ad849e-6693-4e02-9008-c51b2d55de04" />
  **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 ![this image](images/image-rendered.webp)
 (https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#scrollTo=M6riTigUnS6K)
