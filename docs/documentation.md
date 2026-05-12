@@ -72,21 +72,6 @@ To ensure data reliability and consistency, a structured dataset representing re
 
 Using a single structured dataset ensured full control over data quality and consistency, aligning the dataset directly with the project objectives. This allowed the analysis to focus on patient distribution, department workload, patient flow, and temporal patterns without external integration issues.
 
-📌 Data Cleaning and Preprocessing
-
-A significant data preprocessing phase was conducted to ensure data quality and consistency. This included handling missing values, removing duplicates, correcting inconsistencies, and standardizing date and time formats. Proper datetime conversion was essential for calculating length of stay and enabling time-based analysis.
-
-📌 Feature Engineering
-
-Additional features were extracted using Python in Google Colab, including year, month, day, and hour from admission timestamps. A new variable representing patient length of stay was also created to support deeper operational analysis.
-
-📌 Visualization and Dashboard Development
-
-After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization. Interactive dashboards were developed to present insights on patient distribution, department workload, and operational performance.
-
-The visualizations highlight differences in department activity levels and provide a clear overview of hospital operations.
-
-📊 Dataset Figures / Visualizations
 
 Figure 1: Raw Hospital Dataset
 
@@ -97,31 +82,30 @@ This figure shows the original hospital dataset extracted from Excel before any 
 <img width="610" height="712" alt="Screenshot 2026-05-05 202320" src="https://github.com/user-attachments/assets/7fb3c718-46c5-46a7-ae22-c7fe148d942f" />
 <img width="1694" height="709" alt="Screenshot 2026-05-05 202221" src="https://github.com/user-attachments/assets/425ddb45-6ef8-48ff-b01f-861a5601ccff" />
 
-Figure 2: Data Cleaning Process
 
-The following step shows data cleaning operations performed to handle missing values and inconsistencies.
 
-Figure: Cleaning Column Names (Removing Extra Spaces):
+📌 Data Cleaning and Preprocessing
 
-<img width="494" height="81" alt="Screenshot 2026-05-12 150007" src="https://github.com/user-attachments/assets/4f2905cc-444e-4843-be3f-9acbcbce32fb" />
+A data preprocessing phase was conducted to ensure data quality and consistency. This included handling missing values, removing duplicates, correcting inconsistencies, and standardizing date and time formats. Proper datetime conversion was essential for calculating length of stay and enabling time-based analysis.
 
-Figure: Standardizing Department Names:
+<img width="465" height="224" alt="Screenshot 2026-05-12 150505" src="https://github.com/user-attachments/assets/e327cc54-ef5c-4044-a8ff-3420e1162c81" />
+<img width="524" height="60" alt="Screenshot 2026-05-12 145148" src="https://github.com/user-attachments/assets/5580e67a-c6b5-42a3-b8f9-0568f57541d0" />
+<img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/721ec53a-18e1-4a41-8ef8-6d297286d2c5" />
 
-<img width="465" height="224" alt="Screenshot 2026-05-12 150505" src="https://github.com/user-attachments/assets/ff3b4398-5107-4e7c-9d84-f054396e8158" />
+📌 Feature Engineering
 
-Figure: Handling Missing Values in Department Column
+Additional features were extracted using Python in Google Colab, including year, month, day, and hour from admission timestamps. A new variable representing patient length of stay was also created to support deeper operational analysis.
 
-<img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a300bdba-908b-44cc-b31f-f1d770cb6487" />
+<img width="679" height="201" alt="Screenshot 2026-05-12 152531" src="https://github.com/user-attachments/assets/5bb3c98e-80b2-4aec-8e7d-c1d625667027" />
 
-📌 Figure 3: Datetime Conversion
 
-<img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/35bbbf28-e2c4-4c4c-8d34-1fb0fe8725ae" />
+📌 Visualization and Dashboard Development
 
-This figure shows the conversion of admission and discharge columns into datetime format to enable time-based analysis.
+After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization. Interactive dashboards were developed to present insights on patient distribution, department workload, and operational performance. The dashboards allow users to explore trends dynamically and support data-driven decision-making.
 
- 📌 Figure 4: Tableau Dashboard – Department Analysis
+<img width="1752" height="1036" alt="Screenshot 2026-05-05 223828" src="https://github.com/user-attachments/assets/d024ded5-74c5-4bd5-8952-fb4fc20b5d8f" />
 
-<img width="1752" height="1036" alt="Screenshot 2026-05-05 223828" src="https://github.com/user-attachments/assets/84cf99b3-e04c-47a4-84dd-0b50fec819c4" />
+
 
 ## **Data Description and Understanding**
 The dataset used in this project represents operational and patient-related data from Al-Haramain Hospital. It captures real hospital activities such as patient admissions, visits to different departments, transfers between departments, and discharge information.
