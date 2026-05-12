@@ -7,10 +7,11 @@
 ## [Documentation Template Sections](docs/documentation.md)
 
 ## [**Title Page & Authors**](docs/documentation.md#title-page-authors)
+<img width="1170" height="701" alt="WhatsApp Image 2026-05-12 at 7 57 37 PM" src="https://github.com/user-attachments/assets/a9fbf39d-81e2-4621-9347-1fab0cbfae91" />
+
 ```
 [pation Flow and Hospital Performance Analysis ]
 
-<img width="1170" height="701" alt="WhatsApp Image 2026-05-12 at 7 57 37 PM" src="https://github.com/user-attachments/assets/8bcb6df9-0954-4715-8752-1af90de8a697" />
 
 Authors
 - [Maya Salahi ], [202210629]
