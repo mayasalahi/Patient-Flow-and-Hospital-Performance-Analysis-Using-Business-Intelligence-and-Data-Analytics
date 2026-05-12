@@ -87,7 +87,7 @@ Overall, the dataset provides a rich and structured representation of hospital o
 ## **Data Primary Cleaning and Transformation**
 The raw dataset underwent a thorough cleaning and preprocessing phase to ensure data quality, consistency, and reliability for analysis. This step was essential to prepare the data for accurate Business Intelligence insights.
 
-During the cleaning process, missing values were identified and handled appropriately depending on the context of each attribute. Duplicate records were also checked and removed to avoid redundancy and ensure data accuracy.
+During the cleaning process, missing values were identified and handled appropriately depending on the context of each attribute. 
 
 <img width="337" height="45" alt="Screenshot 2026-05-05 211542" src="https://github.com/user-attachments/assets/4e451373-643c-4164-a49f-be041bb01a38" />
 
