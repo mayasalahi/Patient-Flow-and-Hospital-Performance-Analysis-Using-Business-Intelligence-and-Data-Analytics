@@ -40,13 +40,8 @@ Date: [Submission Date]
 
 
 
-## Need Help?
-
 - **Markdown Guide**: [GitHub Markdown Documentation](https://guides.github.com/features/mastering-markdown/)
 - **Git Tutorial**: [Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 - **BI Tools**: Research and document your tool choices in Section 11
 - **Data Sources**: APIs, UCI ML Repository, Government Open Data, Industry Datasets, Web scraping, etc.
 
----
-
-**Good luck with your Business Intelligence graduation project!** 
