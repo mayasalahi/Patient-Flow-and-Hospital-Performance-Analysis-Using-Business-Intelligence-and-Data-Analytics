@@ -100,9 +100,13 @@ This figure shows the original hospital dataset extracted from Excel before any 
 Figure 2: Data Cleaning Process
 
 The following step shows data cleaning operations performed to handle missing values and inconsistencies.
+
 Text Cleaning and Standardization of Department Column:
+
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a300bdba-908b-44cc-b31f-f1d770cb6487" />
+
  Handling Missing Values
+ 
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a52248cf-d78c-4e0a-b46f-af41625349e6" />
 
 
