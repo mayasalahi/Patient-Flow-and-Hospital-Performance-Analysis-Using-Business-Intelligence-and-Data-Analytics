@@ -46,15 +46,22 @@ This project aims to analyze hospital operations and patient behavior using heal
 Despite the availability of data, hospitals often face challenges such as long waiting times, inefficient patient flow, and suboptimal resource allocation due to limited use of data analytics techniques. This project addresses these challenges by applying Business Intelligence methods to transform raw hospital data into meaningful and actionable insights.
 The project follows a complete BI pipeline, starting from data collection and preprocessing to ensure data quality, and ending with the development of interactive dashboards using Tableau. These dashboards enable stakeholders to monitor performance, identify trends, and support data-driven decision-making.
 The analysis focuses on patient distribution, department workload, patient flow between departments, and length of stay. Additionally, temporal patterns such as peak hours, daily trends, and seasonal variations are examined to better understand hospital demand patterns.
+
+
 🎯 Project Objectives:
 Analyze patient distribution and hospital workload across departments
 
 Identify peak hours, days, and high-demand periods
 
 Examine patient flow between departments and detect bottlenecks
+
 Evaluate length of stay across different departments
+
+
 Improve resource allocation and operational efficiency
+
 Support decision-making through interactive dashboards
+
 ## **Data Research and Acquiring Effort**
 
 operational workflows within Al-Haramain Hospital. Since the main objective of the project is to analyze patient behavior and evaluate hospital performance, the dataset needed to capture real interactions such as patient admissions, department transitions, and duration of stay.
