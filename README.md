@@ -20,7 +20,7 @@ Authors
 Supervised by: [Husam Barham]
 
 Course: 307498 – Graduation Project
-Semester: First Semester, 2025/2026
+Semester: second Semester, 2025/2026
 
 Date: [1/6/2026]
 ```
