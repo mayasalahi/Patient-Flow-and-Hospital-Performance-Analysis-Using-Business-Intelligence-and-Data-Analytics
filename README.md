@@ -8,13 +8,13 @@
 
 ## [**Title Page & Authors**](docs/documentation.md#title-page-authors)
 ```
-[Insert Title Here]
+[pation Flow and Hospital Performance Analysis ]
 
 Authors
-- [Student Name], [Student Number]
-- [Student Name], [Student Number]
+- [Maya Salahi ], [202210629]
+- [Malak Habiba], [202210380]
 
-Supervised by: [Supervisor Name]
+Supervised by: [Husam Barham]
 
 Course: 307498 – Graduation Project
 Semester: First Semester, 2025/2026
