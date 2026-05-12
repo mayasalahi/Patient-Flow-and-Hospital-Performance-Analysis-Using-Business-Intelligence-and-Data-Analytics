@@ -71,30 +71,36 @@ During the data research phase, multiple publicly available healthcare datasets 
 To ensure data reliability and consistency, a structured dataset representing real hospital operations was utilized. The dataset includes key attributes such as patient ID, department name, admission and discharge timestamps, visit dates, and inter-department transitions. It contains approximately 83,000 patient records collected over a defined period, enabling comprehensive behavioral and operational analysis.
 
 Using a single structured dataset ensured full control over data quality and consistency, aligning the dataset directly with the project objectives. This allowed the analysis to focus on patient distribution, department workload, patient flow, and temporal patterns without external integration issues.
+
 📌 Data Cleaning and Preprocessing
 
 A significant data preprocessing phase was conducted to ensure data quality and consistency. This included handling missing values, removing duplicates, correcting inconsistencies, and standardizing date and time formats. Proper datetime conversion was essential for calculating length of stay and enabling time-based analysis.
+
 📌 Feature Engineering
 
 Additional features were extracted using Python in Google Colab, including year, month, day, and hour from admission timestamps. A new variable representing patient length of stay was also created to support deeper operational analysis.
+
 📌 Visualization and Dashboard Development
 
 After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization. Interactive dashboards were developed to present insights on patient distribution, department workload, and operational performance.
 
 The visualizations highlight differences in department activity levels and provide a clear overview of hospital operations.
+
 📊 Dataset Figures / Visualizations
 
 Figure 1: Raw Hospital Dataset
+
 This figure shows the original hospital dataset extracted from Excel before any data preprocessing or cleaning steps were applied.
-الطوارئ:
 <img width="1606" height="710" alt="Screenshot 2026-05-05 201242" src="https://github.com/user-attachments/assets/e06c2457-9dce-456f-9539-a1b304ae4f7f" />
 <img width="723" height="710" alt="Screenshot 2026-05-05 202412" src="https://github.com/user-attachments/assets/10f44db1-7026-4bd4-be56-f977a965afd8" />
 <img width="762" height="725" alt="Screenshot 2026-05-05 202342" src="https://github.com/user-attachments/assets/11198788-3d36-4ac6-9065-1bebab7f378c" />
 <img width="610" height="712" alt="Screenshot 2026-05-05 202320" src="https://github.com/user-attachments/assets/7fb3c718-46c5-46a7-ae22-c7fe148d942f" />
 <img width="1694" height="709" alt="Screenshot 2026-05-05 202221" src="https://github.com/user-attachments/assets/425ddb45-6ef8-48ff-b01f-861a5601ccff" />
 
-Data cleaning
+Figure 2: Data Cleaning Process
+
 The following step shows data cleaning operations performed to handle missing values and inconsistencies.
+
 <img width="403" height="689" alt="Screenshot 2026-05-05 202829" src="https://github.com/user-attachments/assets/5dc212d6-0898-4a84-bb26-803ae2414219" />
 datetime:
 <img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/a75dc571-ad51-4a40-8109-6675dc1df6ab" />
