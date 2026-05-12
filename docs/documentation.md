@@ -1,6 +1,6 @@
  **Patient Flow and Hospital Performance Analysis Using Business Intelligence and Data Analytics**
 ![this image](images/image-rendered.webp)
-
+(https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#scrollTo=M6riTigUnS6K)
 [gooogle](https://wwww.google.com)
 
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
