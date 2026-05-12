@@ -211,5 +211,5 @@ Additionally, analysis across days of the week revealed that Monday consistently
 Overall, the results highlight that hospital activity is influenced not only by internal operational factors but also by external events such as data recording issues, global pandemics, and regional conditions. Time-based patterns also show clear peak periods that can support better staff scheduling and resource allocation.
 ## **References**
 [hospital data.xlsx](https://github.com/user-attachments/files/27647627/hospital.data.xlsx)
-
+https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#scrollTo=M6riTigUnS6K
 
