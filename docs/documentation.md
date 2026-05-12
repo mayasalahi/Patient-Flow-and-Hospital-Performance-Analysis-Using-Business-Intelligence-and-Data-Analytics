@@ -103,9 +103,12 @@ The following step shows data cleaning operations performed to handle missing va
 
 Text Cleaning and Standardization of Department Column:
 
+<img width="494" height="81" alt="Screenshot 2026-05-12 150007" src="https://github.com/user-attachments/assets/4f2905cc-444e-4843-be3f-9acbcbce32fb" />
+
+ Handling Missing Values:
+
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a300bdba-908b-44cc-b31f-f1d770cb6487" />
 
- Handling Missing Values
  
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a52248cf-d78c-4e0a-b46f-af41625349e6" />
 
