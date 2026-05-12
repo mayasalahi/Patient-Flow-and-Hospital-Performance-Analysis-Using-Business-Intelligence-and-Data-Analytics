@@ -88,13 +88,17 @@ Overall, the dataset provides a rich and structured representation of hospital o
 The raw dataset underwent a thorough cleaning and preprocessing phase to ensure data quality, consistency, and reliability for analysis. This step was essential to prepare the data for accurate Business Intelligence insights.
 
 During the cleaning process, missing values were identified and handled appropriately depending on the context of each attribute. Duplicate records were also checked and removed to avoid redundancy and ensure data accuracy.
+
 <img width="337" height="45" alt="Screenshot 2026-05-05 211542" src="https://github.com/user-attachments/assets/4e451373-643c-4164-a49f-be041bb01a38" />
+
 <img width="821" height="131" alt="Screenshot 2026-05-05 211852" src="https://github.com/user-attachments/assets/b5a64c9a-1181-48e9-9781-39b7db4360f4" />
 
 A significant part of the preprocessing involved handling datetime fields. Admission and discharge timestamps were converted into a consistent datetime format, enabling accurate calculation of time-based metrics such as length of stay and visit duration.
+
 <img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/b1535f5d-690e-4ec2-81b8-67a3d17adc0b" />
 
 Feature engineering was also applied to enhance the dataset. New attributes such as year, month, day, and time components were extracted from the original datetime fields to support temporal analysis and trend identification.
+
 <img width="612" height="363" alt="Screenshot 2026-05-05 212406" src="https://github.com/user-attachments/assets/85bc095a-acb0-4465-b008-fccaa4a00602" />
 
 Finally, the cleaned dataset was structured and exported for further analysis and visualization in Tableau. This transformation process ensured that the data was fully prepared, consistent, and suitable for generating reliable insights in the next stages of the project.
