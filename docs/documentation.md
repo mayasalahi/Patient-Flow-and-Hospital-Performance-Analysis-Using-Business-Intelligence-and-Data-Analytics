@@ -198,13 +198,18 @@ Additionally, the system can support strategic planning by highlighting departme
 
 Overall, the project demonstrates how raw hospital data can be transformed into a deployable decision-support system that enhances operational efficiency and supports data-driven healthcare management.
 ## **Results** 
+The analysis of hospital data revealed several important operational insights across different time periods.
 
-Overall, this phase transformed raw hospital data into structured, clear, and actionable insights. By combining data preprocessing, analytical techniques, and time-based analysis, the project provides a comprehensive understanding of patient behavior and hospital operations.
+The year 2024 showed the highest recorded number of cases compared to other years. However, after communication with the hospital, it was identified that data inconsistency occurred during this period due to human error in data entry. A staff member was responsible for incorrect recording of patient information, which was later corrected after her departure, leading to more stable and accurate data in later periods.
 
-The analysis goes beyond basic data exploration by identifying patterns in patient distribution, department workload, peak times, and length of stay. These insights highlight operational challenges and areas that require attention.
+In terms of external factors, hospital activity was also influenced by major events. During the COVID-19 period, patient visits decreased significantly due to restricted mobility and reduced hospital access. Similarly, in recent periods, a noticeable decline in patient numbers was observed, which is linked to regional conditions affecting travel and international access to the hospital, especially since many patients come from outside the country for treatment.
 
-The processed dataset and derived metrics serve as a strong foundation for Business Intelligence visualizations, enabling the creation of interactive dashboards that support data-driven decision-
+Temporal analysis showed that the highest hospital workload occurs around 8 PM. This peak can be explained by the fact that many patients prefer visiting after working hours, leading to increased demand in the evening when outpatient and emergency services overlap.
 
+Additionally, analysis across days of the week revealed that Monday consistently recorded the highest number of patient visits over multiple years. This may be due to the beginning of the working week, where postponed cases from weekends are typically accumulated and addressed.
+
+Overall, the results highlight that hospital activity is influenced not only by internal operational factors but also by external events such as data recording issues, global pandemics, and regional conditions. Time-based patterns also show clear peak periods that can support better staff scheduling and resource allocation.
 ## **References**
+[hospital data.xlsx](https://github.com/user-attachments/files/27647627/hospital.data.xlsx)
 
 
