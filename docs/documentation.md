@@ -49,6 +49,7 @@ The analysis focuses on patient distribution, department workload, patient flow 
 
 
 🎯 Project Objectives:
+
 Analyze patient distribution and hospital workload across departments
 
 Identify peak hours, days, and high-demand periods
@@ -63,28 +64,29 @@ Improve resource allocation and operational efficiency
 Support decision-making through interactive dashboards
 
 ## **Data Research and Acquiring Effort**
+This project focuses on analyzing operational workflows within Al-Haramain Hospital to understand patient behavior and evaluate hospital performance. The dataset was required to capture real hospital interactions, including patient admissions, department transitions, and length of stay.
 
-operational workflows within Al-Haramain Hospital. Since the main objective of the project is to analyze patient behavior and evaluate hospital performance, the dataset needed to capture real interactions such as patient admissions, department transitions, and duration of stay.
+During the data research phase, multiple publicly available healthcare datasets and online repositories were reviewed. However, most datasets were either pre-processed, outdated, limited in size, or lacked essential attributes such as timestamps, patient movement between departments, and complete admission and discharge records. These limitations made them unsuitable for the objectives of this study.
 
-During the data research phase, multiple potential data sources were explored, including publicly available healthcare datasets and online repositories. However, many of these datasets were either pre-processed, limited in size, outdated, or lacked critical attributes required for this analysis. In several cases, these datasets did not include important fields such as timestamps, patient movement between departments, or complete admission and discharge records. Additionally, relying on multiple datasets would introduce integration challenges, increase preprocessing complexity, and potentially lead to inconsistencies in the analysis.
+To ensure data reliability and consistency, a structured dataset representing real hospital operations was utilized. The dataset includes key attributes such as patient ID, department name, admission and discharge timestamps, visit dates, and inter-department transitions. It contains approximately 83,000 patient records collected over a defined period, enabling comprehensive behavioral and operational analysis.
 
-To overcome these limitations and ensure data reliability and realism, a structured dataset representing actual hospital operations was utilized. This dataset was specifically designed to reflect real patient interactions within the hospital environment. It includes key attributes such as patient ID, department name, visit date, admission and discharge timestamps, and transitions between departments.
+Using a single structured dataset ensured full control over data quality and consistency, aligning the dataset directly with the project objectives. This allowed the analysis to focus on patient distribution, department workload, patient flow, and temporal patterns without external integration issues.
+📌 Data Cleaning and Preprocessing
 
-The dataset contains approximately [83,000] patient records, collected over a defined time period, enabling both behavioral and operational analysis. These attributes were carefully selected to support multiple analytical perspectives, including patient distribution, department workload, patient flow between departments, and temporal trends.
+A significant data preprocessing phase was conducted to ensure data quality and consistency. This included handling missing values, removing duplicates, correcting inconsistencies, and standardizing date and time formats. Proper datetime conversion was essential for calculating length of stay and enabling time-based analysis.
+📌 Feature Engineering
 
-By working with structured hospital data, full control was maintained over the attributes used in the analysis. This ensured that the dataset was directly aligned with the project objectives, rather than adapting the analysis to fit the limitations of external datasets.
+Additional features were extracted using Python in Google Colab, including year, month, day, and hour from admission timestamps. A new variable representing patient length of stay was also created to support deeper operational analysis.
+📌 Visualization and Dashboard Development
 
-A significant effort was dedicated to data cleaning and preprocessing. This process involved handling missing values, correcting inconsistencies, removing duplicate records, and standardizing date and time formats. Ensuring proper datetime formatting was particularly important for calculating accurate metrics such as length of stay and for enabling time-based analysis.
+After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization. Interactive dashboards were developed to present insights on patient distribution, department workload, and operational performance.
 
-The data was processed and analyzed using Python in Google Colab. Various preprocessing techniques and feature engineering steps were applied, including extracting time components such as year, month, and day from admission dates. Additional calculated fields, such as length of stay, were created to support deeper analysis.
+The visualizations highlight differences in department activity levels and provide a clear overview of hospital operations.
+📊 Dataset Figures / Visualizations
 
-After preprocessing, the cleaned dataset was exported and integrated into Tableau for visualization and dashboard development. This allowed the creation of interactive dashboards that present key insights in a clear and structured manner.
-
-Special attention was given to analyzing patient movement between departments (Patient Flow), as it provides valuable insights into hospital efficiency, resource utilization, and potential operational bottlenecks. Additionally, the dataset supported analysis of department workload differences and patient stay durations.
-
-Overall, this structured approach to data acquisition and preparation ensured that the dataset is accurate, relevant, and suitable for Business Intelligence analysis. The resulting insights contribute to a better understanding of hospital operations and support data-driven decision-making.
-Dataset:
-Figure 1: Raw dataset showing hospital patient records.
+Figure 1: Raw Hospital Dataset
+This figure shows the original hospital dataset extracted from Excel before any data preprocessing or cleaning steps were applied.
+الطوارئ:
 <img width="1606" height="710" alt="Screenshot 2026-05-05 201242" src="https://github.com/user-attachments/assets/e06c2457-9dce-456f-9539-a1b304ae4f7f" />
 <img width="723" height="710" alt="Screenshot 2026-05-05 202412" src="https://github.com/user-attachments/assets/10f44db1-7026-4bd4-be56-f977a965afd8" />
 <img width="762" height="725" alt="Screenshot 2026-05-05 202342" src="https://github.com/user-attachments/assets/11198788-3d36-4ac6-9065-1bebab7f378c" />
