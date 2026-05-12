@@ -50,7 +50,7 @@ The project follows a complete BI pipeline, starting from data collection and pr
 
 The analysis focuses on patient distribution, department workload, patient flow between departments, and length of stay. Additionally, temporal patterns such as peak hours, daily trends, and seasonal variations are examined to better understand hospital demand patterns.
 
-# Project Objectives#
+# Project Objectives
 Analyze patient distribution and hospital workload across departments
 Identify peak hours, days, and high-demand periods
 Examine patient flow between departments and detect bottlenecks
