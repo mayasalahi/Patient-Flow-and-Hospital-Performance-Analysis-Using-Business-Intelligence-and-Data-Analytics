@@ -68,7 +68,7 @@ This project focuses on analyzing operational workflows within Al-Haramain Hospi
 
 During the data research phase, multiple publicly available healthcare datasets and online repositories were reviewed. However, most datasets were either preprocessed, outdated, limited in size, or lacked essential attributes such as timestamps, inter-department patient movement, and complete admission and discharge records. These limitations made them unsuitable for the objectives of this study.
 
-To ensure data reliability and consistency, a structured dataset representing hospital operations was utilized. The dataset includes key attributes such as patient ID, department name, admission and discharge timestamps, visit dates, and patient transitions between departments. It contains approximately 83,000 records collected over a defined period, enabling comprehensive operational and behavioral analysis.
+To ensure data reliability and consistency, a structured dataset representing hospital operations was utilized. The dataset includes key attributes such as patient ID, department name, admission and discharge timestamps, visit dates, and patient transitions between departments. It contains approximately 81,000 records collected over a defined period, enabling comprehensive 1operational and behavioral analysis.
 
 Using a single structured dataset ensured full control over data quality and consistency, allowing the analysis to focus on patient distribution, department workload, patient flow, and temporal patterns without external integration issues.
 
