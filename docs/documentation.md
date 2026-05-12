@@ -91,6 +91,18 @@ During the cleaning process, missing values were identified and handled appropri
 
 <img width="337" height="45" alt="Screenshot 2026-05-05 211542" src="https://github.com/user-attachments/assets/4e451373-643c-4164-a49f-be041bb01a38" />
 
+Cleaning Department Column:
+
+The department column was cleaned to ensure consistency and remove hidden special characters that may affect analysis. These characters included non-visible Unicode symbols and extra spaces that could lead to incorrect grouping or duplication of values.
+
+<img width="465" height="224" alt="Screenshot 2026-05-12 150505" src="https://github.com/user-attachments/assets/88c6512f-62dc-4895-b120-2a3861f8b66b" />
+
+Cleaning Column Names:
+
+To ensure consistency and avoid errors during analysis, the dataset column names were cleaned by removing extra spaces and standardizing them into a proper format.
+
+<img width="524" height="60" alt="Screenshot 2026-05-12 145148" src="https://github.com/user-attachments/assets/8960686c-4f11-41bb-8b72-dd7825c152a9" />
+
 
 A significant part of the preprocessing involved handling datetime fields. Admission and discharge timestamps were converted into a consistent datetime format, enabling accurate calculation of time-based metrics such as length of stay and visit duration.
 
