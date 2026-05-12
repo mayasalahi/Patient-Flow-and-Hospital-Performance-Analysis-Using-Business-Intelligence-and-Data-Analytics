@@ -3,11 +3,9 @@
 
  <img width="1170" height="701" alt="WhatsApp Image 2026-05-12 at 7 57 37 PM" src="https://github.com/user-attachments/assets/2c1f5783-4517-461c-b4bc-ac499caf402b" />
 
-![this image](images/image-rendered.webp)
-
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
-Authors
 
+Authors:
 Malak Hababih,Maya salahi
 
 Supervised by:
