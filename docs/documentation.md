@@ -113,7 +113,15 @@ Figure: Handling Missing Values in Department Column
 
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a300bdba-908b-44cc-b31f-f1d770cb6487" />
 
- 
+📌 Figure 3: Datetime Conversion
+
+<img width="826" height="124" alt="Screenshot 2026-05-05 202958" src="https://github.com/user-attachments/assets/35bbbf28-e2c4-4c4c-8d34-1fb0fe8725ae" />
+
+This figure shows the conversion of admission and discharge columns into datetime format to enable time-based analysis.
+
+ 📌 Figure 4: Tableau Dashboard – Department Analysis
+
+<img width="1752" height="1036" alt="Screenshot 2026-05-05 223828" src="https://github.com/user-attachments/assets/84cf99b3-e04c-47a4-84dd-0b50fec819c4" />
 
 ## **Data Description and Understanding**
 The dataset used in this project represents operational and patient-related data from Al-Haramain Hospital. It captures real hospital activities such as patient admissions, visits to different departments, transfers between departments, and discharge information.
