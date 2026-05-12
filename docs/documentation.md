@@ -89,7 +89,9 @@ This figure shows the original hospital dataset extracted from Excel before any 
 A data preprocessing phase was conducted to ensure data quality and consistency. This included handling missing values, removing duplicates, correcting inconsistencies, and standardizing date and time formats. Proper datetime conversion was essential for calculating length of stay and enabling time-based analysis.
 
 <img width="465" height="224" alt="Screenshot 2026-05-12 150505" src="https://github.com/user-attachments/assets/e327cc54-ef5c-4044-a8ff-3420e1162c81" />
+
 <img width="524" height="60" alt="Screenshot 2026-05-12 145148" src="https://github.com/user-attachments/assets/5580e67a-c6b5-42a3-b8f9-0568f57541d0" />
+
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/721ec53a-18e1-4a41-8ef8-6d297286d2c5" />
 
 📌 Feature Engineering
