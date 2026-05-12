@@ -101,17 +101,19 @@ Figure 2: Data Cleaning Process
 
 The following step shows data cleaning operations performed to handle missing values and inconsistencies.
 
-Text Cleaning and Standardization of Department Column:
+Figure: Cleaning Column Names (Removing Extra Spaces):
 
 <img width="494" height="81" alt="Screenshot 2026-05-12 150007" src="https://github.com/user-attachments/assets/4f2905cc-444e-4843-be3f-9acbcbce32fb" />
 
- Handling Missing Values:
+Figure: Standardizing Department Names:
+
+<img width="465" height="224" alt="Screenshot 2026-05-12 150505" src="https://github.com/user-attachments/assets/ff3b4398-5107-4e7c-9d84-f054396e8158" />
+
+Figure: Handling Missing Values in Department Column
 
 <img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a300bdba-908b-44cc-b31f-f1d770cb6487" />
 
  
-<img width="426" height="78" alt="Screenshot 2026-05-12 144858" src="https://github.com/user-attachments/assets/a52248cf-d78c-4e0a-b46f-af41625349e6" />
-
 
 ## **Data Description and Understanding**
 The dataset used in this project represents operational and patient-related data from Al-Haramain Hospital. It captures real hospital activities such as patient admissions, visits to different departments, transfers between departments, and discharge information.
