@@ -42,17 +42,15 @@ The results indicate that the Emergency Department has the highest patient load 
 
 I would like to express my sincere gratitude to my academic supervisors and instructors for their continuous guidance, valuable feedback, and support throughout the development of this project. Their direction played a key role in shaping both the analytical and practical aspects of this work. I would also like to acknowledge the use of tools and technologies such as Python, Google Colab, and Tableau, which greatly facilitated the data analysis and visualization processes. Finally, I extend my appreciation to everyone who supported me during this project, whether through advice, resources, or encouragement, contributing to the successful completion of this graduation project.
 ## **Business Intelligence Project Description and Objectives**
- This project aims to analyze hospital operations and patient behavior using healthcare data from Al-Haramain Hospital. The healthcare sector is one of the most critical industries, as it directly impacts human well-being and service quality. With the increasing adoption of data-driven systems, hospitals generate large volumes of data that can be leveraged to improve operational efficiency and decision-making.
-
+This project aims to analyze hospital operations and patient behavior using healthcare data from Al-Haramain Hospital. The healthcare sector is one of the most critical industries, as it directly impacts human well-being and service quality. With the increasing adoption of data-driven systems, hospitals generate large volumes of data that can be leveraged to improve operational efficiency and decision-making.
 Despite the availability of data, hospitals often face challenges such as long waiting times, inefficient patient flow, and suboptimal resource allocation due to limited use of data analytics techniques. This project addresses these challenges by applying Business Intelligence methods to transform raw hospital data into meaningful and actionable insights.
-
 The project follows a complete BI pipeline, starting from data collection and preprocessing to ensure data quality, and ending with the development of interactive dashboards using Tableau. These dashboards enable stakeholders to monitor performance, identify trends, and support data-driven decision-making.
-
 The analysis focuses on patient distribution, department workload, patient flow between departments, and length of stay. Additionally, temporal patterns such as peak hours, daily trends, and seasonal variations are examined to better understand hospital demand patterns.
-
-Project Objectives:
+🎯 Project Objectives:
 Analyze patient distribution and hospital workload across departments
+
 Identify peak hours, days, and high-demand periods
+
 Examine patient flow between departments and detect bottlenecks
 Evaluate length of stay across different departments
 Improve resource allocation and operational efficiency
