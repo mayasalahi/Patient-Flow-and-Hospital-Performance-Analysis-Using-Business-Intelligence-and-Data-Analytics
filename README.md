@@ -42,9 +42,3 @@ Date: [1/6/2026]
 - ### [**References**](docs/documentation.md#references)
 
 
-
-- **Markdown Guide**: [GitHub Markdown Documentation](https://guides.github.com/features/mastering-markdown/)
-- **Git Tutorial**: [Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-- **BI Tools**: Research and document your tool choices in Section 11
-- **Data Sources**: APIs, UCI ML Repository, Government Open Data, Industry Datasets, Web scraping, etc.
-
