@@ -4,6 +4,7 @@
  <img width="1170" height="701" alt="WhatsApp Image 2026-05-12 at 7 57 37 PM" src="https://github.com/user-attachments/assets/2c1f5783-4517-461c-b4bc-ac499caf402b" />
 
 🏥 Al-Haramain Hospital BI Dashboard & Analytics
+[presntation graduation project.pdf](https://github.com/user-attachments/files/28029047/presntation.graduation.project.pdf)
 
 Authors:
 Malak Hababih,Maya salahi
@@ -220,12 +221,12 @@ https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#
 https://public.tableau.com/shared/B6FGPMP3T?:display_count=n&:origin=viz_share_link
 
 
-[presntation graduation project.pdf](https://github.com/user-attachments/files/28027492/presntation.graduation.project.pdf)
 
 
 
 
 
+[presntation graduation project.pdf](https://github.com/user-attachments/files/28029068/presntation.graduation.project.pdf)
 
 
 
