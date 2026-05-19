@@ -214,6 +214,11 @@ Overall, the results highlight that hospital activity is influenced not only by 
 
 
 
+https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#scrollTo=_69GUWqRKD3w
+
+
+
+
 https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#scrollTo=M6riTigUnS6K
 
 https://public.tableau.com/shared/9S23WK9H3?:display_count=n&:origin=viz_share_link
