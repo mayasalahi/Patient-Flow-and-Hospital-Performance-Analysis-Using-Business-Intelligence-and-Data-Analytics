@@ -220,8 +220,7 @@ https://colab.research.google.com/drive/1N0RLVRJj85ZpRSD-pvehJF_-_6jHm-yS?pli=1#
 
 
 
-https://public.tableau.com/shared/9S23WK9H3?:display_count=n&:origin=viz_share_link
-
+[presntation graduation project.pdf](https://github.com/user-attachments/files/28027492/presntation.graduation.project.pdf)
 
 
 
