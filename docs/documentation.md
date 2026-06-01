@@ -181,6 +181,26 @@ Overall, this combination of descriptive analysis and simple forecasting ensures
 
 <img width="1386" height="606" alt="Screenshot 2026-06-01 203207" src="https://github.com/user-attachments/assets/dd7fc394-a820-4c16-9c16-f9f1f01e5998" />
 
+
+
+2. Patient Segmentation Using Clustering (Patient Visit Categories)
+To gain a deeper understanding of the utilization patterns within the hospital, we implemented an unsupervised segmentation approach to categorize patients based on their frequency of hospital visits.
+
+Objective: To group patients into distinct behavioral clusters based on their overall engagement and visit rates, allowing the hospital to identify heavy users of healthcare services versus occasional visitors.
+
+Business Value: Identifying the "High Visits" segment is crucial for resource planning, as this group contributes to the highest workload. Hospital management can use these insights to optimize preventive care programs or allocate specialized staff to manage high-frequency patients.
+
+Clustering Results and Visualizations:
+As illustrated in the chart below (from WhatsApp Image 2026-06-01 at 9.35.48 PM.jpeg), the model successfully segmented the patient population into three distinct categories:
+
+Low Visits (Green Cluster): Comprises approximately 29,000 patients who visit the hospital occasionally.
+
+Medium Visits (Orange Cluster): Comprises around 19,000 patients with moderate hospital utilization.
+
+High Visits (Red Cluster): Represents the largest segment with over 32,000 patients. This group reflects the critical segment that drives the majority of the hospital’s operational demand and resource consumption.
+<img width="920" height="487" alt="Screenshot 2026-06-01 213438" src="https://github.com/user-attachments/assets/04ee4dc3-11e5-4926-8059-a7d4b77fe68b" />
+
+
 ## **Tools Research and Selection Effort**
 During the development of this project, several tools and technologies were evaluated to determine the most suitable environment for data analysis, processing, and visualization.
 
