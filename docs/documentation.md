@@ -178,6 +178,9 @@ A decision was made to use simple analytical and forecasting techniques instead 
 Although the forecasting component is kept simple, it provides useful insights into potential future trends and supports strategic planning in hospital operations.
 
 Overall, this combination of descriptive analysis and simple forecasting ensures that the results remain clear, practical, and aligned with the goals of Business Intelligence, which focuses on supporting decision-making rather than model complexity.
+
+<img width="1386" height="606" alt="Screenshot 2026-06-01 203207" src="https://github.com/user-attachments/assets/dd7fc394-a820-4c16-9c16-f9f1f01e5998" />
+
 ## **Tools Research and Selection Effort**
 During the development of this project, several tools and technologies were evaluated to determine the most suitable environment for data analysis, processing, and visualization.
 
