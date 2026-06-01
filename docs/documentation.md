@@ -90,7 +90,7 @@ The raw dataset underwent a thorough cleaning and preprocessing phase to ensure 
 
 During the cleaning process, missing values were identified and handled appropriately depending on the context of each attribute. 
 
-<img width="337" height="45" alt="Screenshot 2026-05-05 211542" src="https://github.com/user-attachments/assets/4e451373-643c-4164-a49f-be041bb01a38" />
+<img width="366" height="40" alt="Screenshot 2026-06-01 211843" src="https://github.com/user-attachments/assets/173b55b1-60d7-486b-9b05-1e0f5b351f14" />
 
 Cleaning Department Column:
 
