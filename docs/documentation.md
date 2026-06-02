@@ -164,7 +164,7 @@ The design follows a structured layout, where summary metrics are placed at the 
 The dashboard includes several analytical components: patient flow visualization to track movement across departments, distribution of patient count by department to evaluate workload, length of stay analysis to assess patient duration, patient frequency to identify repeated visits, daily trend analysis to monitor weekly patterns, time trend analysis to observe long-term changes, and peak admission hours analysis to detect high-demand periods during the day.
 
 From a business intelligence perspective, this dashboard supports data-driven decision-making by identifying peak periods, understanding patient behavior, evaluating departmental performance, and optimizing resource allocation. It helps hospital management improve operational efficiency, enhance service planning, and respond effectively to changing healthcare demands.
-<img width="1752" height="1036" alt="Screenshot 2026-05-05 223828" src="https://github.com/user-attachments/assets/48ce5493-8106-42d6-8bc7-9583fefbae17" />
+<img width="1711" height="1026" alt="Screenshot 2026-06-02 135305" src="https://github.com/user-attachments/assets/86cfc5dc-09ec-43b3-a6e3-fc96c7d8581a" />
 
 ## **Advanced Analytics and AI Modeling**
 After exploring different analytical approaches, the most suitable methods for this project were descriptive data analysis combined with basic time series forecasting using the ARIMA model.
